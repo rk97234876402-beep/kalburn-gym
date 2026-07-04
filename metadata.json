@@ -1,0 +1,6 @@
+{
+  "name": "Kalburn Gym",
+  "description": "A world-class premium fitness sanctuary in Kareli, Prayagraj. Experience luxury equipment, expert certified coaches, result-oriented programs, and custom metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
